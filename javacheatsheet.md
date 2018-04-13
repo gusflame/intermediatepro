@@ -23,10 +23,10 @@ public classname
 public static void main(stuff) { function }
 }
 
-### Method types: public, private
-### Return types: void, can return any variable
+#### Method types: public, private
+#### Return types: void, can return any variable
 
-### Operators: +,*,-,=,==,>=,>,<,<=,<!,>!,!,&&,||,^,>>,<<,>>>
+#### Operators: +,*,-,=,==,>=,>,<,<=,<!,>!,!,&&,||,^,>>,<<,>>>
 
 ## Comments:
 // for one line
