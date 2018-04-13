@@ -11,11 +11,11 @@
 8. boolean
 
 ## Arrays:
-int arrayName[]; - *declaring interger array*
-arrayName = new int[100]; - *giving the array 100 slots*
-int arrayName[] = new int [100]; - *declaring and giving the array slots in the same line*
-int arrayName[] = [1,2,3,4]; - *same as above*
-int arrayName[] = new int [10][20]; - *to create a multidimensional array*
+- int arrayName[]; - *declaring interger array*
+- arrayName = new int[100]; - *giving the array 100 slots*
+- int arrayName[] = new int [100]; - *declaring and giving the array slots in the same line*
+- int arrayName[] = [1,2,3,4]; - *same as above*
+- int arrayName[] = new int [10][20]; - *to create a multidimensional array*
 
 ## Class set up:
 public classname
@@ -29,29 +29,29 @@ public static void main(stuff) { function }
 #### Operators: +,*,-,=,==,>=,>,<,<=,<!,>!,!,&&,||,^,>>,<<,>>>
 
 ## Comments:
-// for one line
-/* multi line comment */
-/** block comment **/
+- // for one line
+- /* multi line comment */
+- /** block comment **/
 
 ## Compile and Run:
-java nameOfFile.java
-java nameOfFile
+- java nameOfFile.java
+- java nameOfFile
 
 ## Flow:
-if (boolean) statement; { else statement2; }
-while loop
-{ initialization }
-while (termination clause);
-for loop
-for (initialization; termianation clause, iteration)
-body;
+- if (boolean) statement; { else statement2; }
+- while loop
+- { initialization }
+- while (termination clause);
+- for loop
+- for (initialization; termianation clause, iteration)
+- body;
 
 ## Program Structure:
 
-class className{
-public static void main (arguments) {
-statements;}
+- class className{
+- public static void main (arguments) {
+- statements;}
 
-method def1
-method def2
+- method def1
+- method def2
 }
