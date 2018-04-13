@@ -18,10 +18,10 @@
 - int arrayName[] = new int [10][20]; - *to create a multidimensional array*
 
 ## Class set up:
-`` public classname
+-- public classname
 { [class variable declaration] 
 public static void main(stuff) { function }
-} ``
+} --
 
 #### Method types: public, private
 #### Return types: void, can return any variable
@@ -48,8 +48,8 @@ public static void main(stuff) { function }
 
 ## Program Structure:
 
-`` class className{
+-- class className{
 public static void main (arguments) {statements;}
 method def1
 method def2 
-} ``
+} --
