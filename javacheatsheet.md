@@ -48,10 +48,8 @@ public static void main(stuff) { function }
 
 ## Program Structure:
 
-- class className{
-- public static void main (arguments) {
-- statements;}
-
-- method def1
-- method def2
+class className{
+public static void main (arguments) {statements;}
+method def1
+method def2
 }
